@@ -1,0 +1,19 @@
+/*****  TAG SELECTORS  *****/
+h1 {
+  color: red;
+  font-size: 25px;
+}
+img:hover {
+  background-color: burlywood;
+}
+
+/*****  CLASS SELECTORS  *****/
+.icecream {
+  background-color:red;
+}
+.chocolate {
+  background-color:blue;
+}
+.nuts {
+  background-color: seagreen;
+}
